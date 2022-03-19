@@ -1,2 +1,2 @@
 # Guild-Quest-Metaverse-Smart-Contracts
-This is a file for all of our Guild's smart contracts. These smart contracts can be enabled by anyone that has a guild within our Discord server. And with that information the CLI Bot that we have can read those contracts. As we continue to go through this project, there may be changes to this repository. But this is just a general gist of what we're building. 
+This is a folder for all of our Guild's smart contracts. These smart contracts can be enabled by anyone that has a guild within our Discord server. And with that information the CLI Bot that we have can read those contracts. As we continue to go through this project, there may be changes to this repository. But this is just a general gist of what we're building. 
